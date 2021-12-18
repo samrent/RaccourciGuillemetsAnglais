@@ -32,7 +32,7 @@ Pour nous permettre d'attribuer des touches aux guillemets librement, nous utili
 
 4. ????
 
-5. Tadaaa, plus jamais de copier coller 
+5. Tadaaa, plus jamais besoin de copier-coller !
 
 
 # *Bonne rédaction !*
