@@ -37,4 +37,4 @@ Pour nous permettre d'attribuer des touches aux guillemets librement, nous utili
 
 # *Bonne rédaction !*
 
-P.-S. J'invite les plus érgonomes d'entre vous à consulter [https://www.autohotkey.com/docs/Tutorial.htm] dans le cas où l'envie vous prend de modifier le choix de des touches.
+P.-S. J'invite les plus ergonomes d'entre vous à consulter [https://www.autohotkey.com/docs/Tutorial.htm] dans le cas où l'envie vous prend de modifier le choix de des touches.
