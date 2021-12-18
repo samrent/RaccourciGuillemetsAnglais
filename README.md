@@ -24,7 +24,7 @@ Pour nous permettre d'attribuer des touches aux guillemets librement, nous utili
 
 ### Automatisation de l'éxécution du script 
 
-1. Un problème éxiste encore dans le fait que dans l'état actuel, le script demanderait une nouvelle activation manuelle à chaque redémarrage. Il nous faut alors séléctionner l'emplacement où le système d'exploitation acceuille les différents scripts éxécutés automatiquement à l'allumage.
+1. Un problème éxiste encore du fait que dans l'état actuel, le script demanderait une nouvelle activation manuelle à chaque redémarrage. Il nous faut alors séléctionner l'emplacement où le système d'exploitation acceuille les différents scripts éxécutés automatiquement à l'allumage.
 
 2. Pour ceci nous allons appuyer sur la touche WINDOWS + R et entrer la destination shell:startup puis appuyer sur entrée.
 
