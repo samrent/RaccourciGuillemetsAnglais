@@ -4,7 +4,7 @@ Pour nous permettre d'attribuer des touches aux guillemets librement, nous utili
 
 ### L'installation de AutoHotkey
 
-1. Visiter le site [https://www.autohotkey.com/] à fin d'y télécharger le logiciel sur mentionné.
+1. Visiter le site [https://www.autohotkey.com/] à fin d'y télécharger le logiciel sur-mentionné.
 
 2. Appuyer sur le fichier ainsi téléchargé et suivre les instructions du prompt d'installation.
 
@@ -12,7 +12,7 @@ Pour nous permettre d'attribuer des touches aux guillemets librement, nous utili
 
 ### Téléchargement du script et première éxécution
 
-1. Vous verrez que lors de clics droits sur le bureau et du survol du menu {Nouveau} il vous sera proposé la création de fichiers .ahk , le format de référence de AutoHotkey, si d'avenir vous désireriez automatiser d'autres actions.
+1. Vous verrez que lors de clics droits sur le bureau et du survol du menu {Nouveau} qu'il vous sera proposé la création de fichiers .ahk , le format de référence de AutoHotkey, si d'avenir vous désireriez automatiser d'autres actions.
 
 2. Le cas échéant, je vous invite à télécharger le fichier zip sur la page github en appuyant sur le menu à rabattement nommé Code.
 
